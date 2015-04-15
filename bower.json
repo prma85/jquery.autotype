@@ -23,6 +23,6 @@
   ],
   "dependencies": {
     "jquery": ">= 1.5.1"
-  },Ad
+  },
   "devDependencies": {}
 }
