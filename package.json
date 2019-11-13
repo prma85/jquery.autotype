@@ -1,0 +1,29 @@
+{
+  "name": "jquery.autotype",
+  "main": "jquery.autotype.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/prma85/jquery.autotype",
+  "authors": [
+    "Michael Monteleone",
+    "Paulo Andrade"
+  ],
+  "description": "Simple, accurate, typing simulation for jQuery",
+  "keywords": [
+    "typing",
+    "autotype"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/prma85/jquery.autotype.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "jsTestDriver.conf",
+    "lib/*",
+    "Rakefile"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.5.1"
+  },
+  "devDependencies": {}
+}
